@@ -4,9 +4,7 @@ Valentine Project is a responsive web application designed to celebrate love thr
 
 # Live Demo
 
-```
 https://iprabhsidhu/github.io/Valentine
-```
 
 ## Features
 
