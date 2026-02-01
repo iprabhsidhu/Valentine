@@ -2,9 +2,11 @@
 
 Valentine Project is a responsive web application designed to celebrate love throughout Valentine's week. It features themed pages for each day, interactive countdowns, smooth animations, and a hidden Valentine's special page that unlocks when you click the heart icon three times. The content is easily customizable via a JSON configuration file.
 
-## Live Website
+# Live Demo
 
-Check out the live site here: [Live Valentine Project](https://nouzen-shinei.github.io/Valentine-Week/)
+```
+https://iprabhsidhu/github.io/Valentine
+```
 
 ## Features
 
@@ -72,13 +74,6 @@ Check out the live site here: [Live Valentine Project](https://nouzen-shinei.git
 - **Fetch API:** Used to load external configurations from the config.json file.
 - **Anime.js & Lordicon:** For creating engaging animations and interactive icons.
 - **Audio API & postMessage:** For controlling background music across different pages.
-
-## Contributing, License & Acknowledgements
-
-Feel free to contribute or suggest enhancements by raising an issue or submitting a pull request. This project is licensed under the MIT License.
-
-Special thanks to [Lordicon](https://lordicon.com/), [Anime.js](https://animejs.com/), and all the creative minds behind interactive web experiences.
-
 ---
 
 Enjoy celebrating love with this unique, interactive Valentine Project!
